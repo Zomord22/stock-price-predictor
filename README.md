@@ -13,7 +13,7 @@ A machine learning web application that predicts stock prices using historical d
 - Multiple stocks supported
 
 ## 🎯 Live Demo
-[Try the app here](your-huggingface-link)
+[Try the app here](https://acab2440a0b78765ef.gradio.live)
 
 ## 💻 Quick Start
 ```bash
